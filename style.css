@@ -1,0 +1,13 @@
+body{ 
+    background-color: rgb(238, 255, 0);
+}
+
+h1{
+    color: cyan;
+    border:dotted;
+}
+
+
+.titulo{
+    color: blue;
+    text-align:center;
